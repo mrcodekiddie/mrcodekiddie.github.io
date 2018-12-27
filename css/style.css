@@ -102,7 +102,7 @@ hr {
 .navbar-custom .navbar-brand .navbar-toggle {
 	padding: 4px 6px;
 	font-size: 16px;
-	color: #fff;
+	color: #ffffff;
 }
 .navbar-custom .navbar-brand .navbar-toggle:focus, .navbar-custom .navbar-brand .navbar-toggle:active {
 	outline: 0;
@@ -214,7 +214,7 @@ hr {
 	color: #ffffff;
 }
 #skills hr {
-	background: rgba(255,255,255,0.3);
+	background: #ffffff;
 }
 #skills .skill {
 	margin-bottom: 40px;
@@ -241,7 +241,7 @@ hr {
 .percent {
 	display: inline-block;
 	font-size: 21px;
-	color: #121d1f;
+	color: #ffffff;
 	line-height: 152px;
 	z-index: 2;
 }
@@ -519,7 +519,7 @@ ol.type li a:hover {
 	background: #009688;
 }
 #contact h2 {
-	color: #fff;
+	color: #ffffff;
 }
 #contact hr {
 	background: rgba(255,255,255,0.3);
